@@ -7,7 +7,9 @@ Simple REST service based on Jersey.
 Run service on tomcat
 =====================
 
+```
 mvn tomcat:run
+```
 
 WADL URL
 ========
